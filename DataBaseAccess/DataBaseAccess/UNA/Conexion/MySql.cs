@@ -7,23 +7,15 @@ namespace DataBaseAccess.UNA.Conexion
 {
     public class MySql : DbAccess
     {
+
         public override void BeginTransaction()
         {
-            throw new NotImplementedException();
+            if (Connection != null)
+            {
+                Transaction = Connection.BeginTransaction();
+            }
+
         }
-
-        //public override void BeginTransaction()
-        //{
-        //    Connection = new MySqlConnection(ConnectionString);
-        //    Connection.Open();
-        //    MySqlCommand command = Connection.CreateCommand();
-
-        //    Transaction = Connection.BeginTransaction();
-        //    command.Connection = Connection;
-        //    command.Transaction = Transaction;
-
-
-        //}
 
         public override void CloseConnection()
         {
@@ -64,19 +56,19 @@ namespace DataBaseAccess.UNA.Conexion
             Connection.Open();
         }
 
-        public override DataTable QuerySQL(string Qsql)
+
+        public override DataTable QuerySQL(string sql)
         {
-            throw new NotImplementedException();
+            DataTable result = new DataTable();
+            MySqlDataAdapter mySqlDataAdapter = new MySqlDataAdapter(sql, (MySqlConnection)Connection);
+            mySqlDataAdapter.Fill(result);
+            return result;
+
         }
-
-        //public override DataTable QuerySQL(string Qsql)
-        //{
-
-        //}
 
         public override void RollBackTransaction()
         {
-            if (Transaction != null)
+            if (IsTransaction())
             {
                 Transaction.Rollback();
             }

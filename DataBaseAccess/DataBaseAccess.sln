@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataBaseAccess", "DataBaseAccess\DataBaseAccess.csproj", "{98A4F1EF-88AF-4776-8F23-377EB678D987}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionForm", "..\ConnectionForm\ConnectionForm.csproj", "{47A3D1B1-4BAD-4658-80D3-7EF2D52E1023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{FCD4B5B6-DAAC-4F05-970F-8C20C57CB040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{98A4F1EF-88AF-4776-8F23-377EB678D987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{98A4F1EF-88AF-4776-8F23-377EB678D987}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{98A4F1EF-88AF-4776-8F23-377EB678D987}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{98A4F1EF-88AF-4776-8F23-377EB678D987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A3D1B1-4BAD-4658-80D3-7EF2D52E1023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A3D1B1-4BAD-4658-80D3-7EF2D52E1023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A3D1B1-4BAD-4658-80D3-7EF2D52E1023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A3D1B1-4BAD-4658-80D3-7EF2D52E1023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD4B5B6-DAAC-4F05-970F-8C20C57CB040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD4B5B6-DAAC-4F05-970F-8C20C57CB040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD4B5B6-DAAC-4F05-970F-8C20C57CB040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD4B5B6-DAAC-4F05-970F-8C20C57CB040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

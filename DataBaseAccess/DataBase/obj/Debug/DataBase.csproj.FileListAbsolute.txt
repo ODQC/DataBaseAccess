@@ -1,0 +1,14 @@
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\DataBase.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\DataBase.pdb
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\Google.Protobuf.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\MySql.Data.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\Renci.SshNet.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\Google.Protobuf.xml
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\MySql.Data.xml
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\bin\Debug\Renci.SshNet.xml
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\obj\Debug\DataBase.csproj.CopyComplete
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\obj\Debug\DataBase.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBase\obj\Debug\DataBase.pdb
