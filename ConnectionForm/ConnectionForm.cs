@@ -27,19 +27,10 @@ namespace ConnectionForm
             mySql.ConnectionString = connectionString;
             mySql.OpenConnection();
             mySql.BeginTransaction();
-
-         dataGridView1.DataSource =   mySql.QuerySQL("Select * from Clientes");
+            dataGridView1.DataSource = mySql.QuerySQL("Select * from Clientes");
             mySql.CommitTransaction();
             mySql.CloseConnection();
-            MessageBox.Show("Conexión realizada");
-
-
-
-            //connetionString = @"";
-            //connection = new MySqlConnection(connetionString);
-            //connection.Open();
-            //
-            //connection.Close();
+            MessageBox.Show("Conexión exitosa");
         }
     }
 }

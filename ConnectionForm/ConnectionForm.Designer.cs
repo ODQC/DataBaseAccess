@@ -35,7 +35,7 @@
             // 
             // ConectarDataBaseBtn
             // 
-            this.ConectarDataBaseBtn.Location = new System.Drawing.Point(262, 303);
+            this.ConectarDataBaseBtn.Location = new System.Drawing.Point(270, 358);
             this.ConectarDataBaseBtn.Name = "ConectarDataBaseBtn";
             this.ConectarDataBaseBtn.Size = new System.Drawing.Size(249, 54);
             this.ConectarDataBaseBtn.TabIndex = 0;
@@ -46,9 +46,9 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(271, 68);
+            this.dataGridView1.Location = new System.Drawing.Point(112, 52);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(240, 150);
+            this.dataGridView1.Size = new System.Drawing.Size(562, 243);
             this.dataGridView1.TabIndex = 1;
             // 
             // ConnectionForm
