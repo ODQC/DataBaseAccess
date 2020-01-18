@@ -1,0 +1,9 @@
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\bin\Debug\netcoreapp2.1\DataBaseAccess.deps.json
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\bin\Debug\netcoreapp2.1\DataBaseAccess.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\bin\Debug\netcoreapp2.1\DataBaseAccess.pdb
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\obj\Debug\netcoreapp2.1\DataBaseAccess.csprojAssemblyReference.cache
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\obj\Debug\netcoreapp2.1\DataBaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\obj\Debug\netcoreapp2.1\DataBaseAccess.AssemblyInfoInputs.cache
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\obj\Debug\netcoreapp2.1\DataBaseAccess.AssemblyInfo.cs
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\obj\Debug\netcoreapp2.1\DataBaseAccess.dll
+C:\Users\402260762\AppData\Local\GitHubDesktop\app-2.2.3\DataBaseAccess\DataBaseAccess\DataBaseAccess\obj\Debug\netcoreapp2.1\DataBaseAccess.pdb
